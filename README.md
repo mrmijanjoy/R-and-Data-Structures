@@ -1,1 +1,1 @@
-# Rlanguage basic codes and basic data structures
+# R language basic codes and basic data structures
